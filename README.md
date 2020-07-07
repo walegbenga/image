@@ -1,0 +1,3 @@
+HTML and CSS have developed to such an extent that the depth and variety of features available to a web developer have never been greater. But when it comes to images and manipulating them there’s not a lot you can do, other than resize them in-browser (not a true resize, more of a squash or a stretch) and add borders. True, using JavaScript you can overlay one image on another and blend them by making one image semi-transparent, but that’s about the extent of it. 
+
+That’s where PHP comes to the rescue, thanks to the GD library of image functions, which most implementations of PHP now include by default
