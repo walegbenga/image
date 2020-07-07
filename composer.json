@@ -1,0 +1,14 @@
+{
+  "name": "drw/image-processing",
+  "description": "This class is use to facilitate manipulating images",
+  "license": "MIT",
+  "homepage": "https://github.com/gbengawale/image",
+  "keywords": ["web", "php", "image", "image-proccessing", "image-library", "proccessing-library", "image-proccessing-library"],
+  "autoload":
+  {
+    "psr-4":
+    {
+      "App\\": "app/Image"
+    }
+  }
+}
